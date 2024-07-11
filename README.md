@@ -6,6 +6,6 @@ This was an assignment for my Discrete Mathematics in Computer Programming class
 
 I decided to write in Java, since it had been a while since I wrote in Java and probably feel most comfotable within it once I get my stride going. 
 
-<ins>To run</ins>: open the folder containing the file within your IDE and it should run fairly easily.
+<ins>To run</ins>: Open the folder containing the file within your IDE and it should run fairly easily.
 
 ![MultiBaseConverter Screengrab](https://github.com/nwm516/multi_base_converter/assets/36825393/54073e5f-937c-4984-91e8-e690121eb29e)
